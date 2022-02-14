@@ -17,6 +17,6 @@ print(classes_per_week, type(classes_per_week))
 print(cost_per_class, type(cost_per_class))
 
 #Part B
-mylist = ["water", "food", "5", "15", "20.5"]
+mylist = ["Starbucks", "Mac n Cheese", "5", "15", "20.5"]
 anywhere = random.choice(mylist)
 print(anywhere)

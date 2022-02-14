@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ We were able to put to work what we had learned in class (variables and their types). We leraned and completed our first module that consisted of a random choice off of a list we craeted and were able to print the results. 
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
